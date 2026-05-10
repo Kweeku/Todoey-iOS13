@@ -27,7 +27,6 @@
 				Controller/CategoryViewController.swift,
 				Controller/TodoListViewController.swift,
 				"Data Model/Category.swift",
-				"Data Model/DataModel.xcdatamodeld",
 				"Data Model/Item.swift",
 				"Supporting Files/Assets.xcassets",
 			);
